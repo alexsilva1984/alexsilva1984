@@ -16,6 +16,7 @@
 </div>
  
  <br>
+ <div style="display: inline_block" align="center">
  
   ### Para entrar em contato é só me procurar nas Redes abaixo! 
  
